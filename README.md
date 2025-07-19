@@ -56,7 +56,8 @@ Total sales = SUM(Retail store sales[Total spent])
 Order Count = COUNT(Retail store sales[Transaction ID])
 
 DASHBORD
-![Image alt]
+
+![Image alt](https://github.com/lanrekareem/Retail-store-sales-Analysis/blob/main/Hajia%20Fadeelah%20Retail%20store%20Dashboard.png?raw=true)
 
 
 
